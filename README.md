@@ -36,3 +36,4 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 ## Website utilities
 
 * [ezSearch](http://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
+* [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco 7
