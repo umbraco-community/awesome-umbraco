@@ -19,6 +19,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 ## Backoffice extensions
 
 * [Config Tree](http://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
+* [nuPickers](http://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Pickers for Umbraco 7
 
 ## Developer tools
 
