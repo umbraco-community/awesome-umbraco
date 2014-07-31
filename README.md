@@ -25,6 +25,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 ## Developer tools
 
 * [301 URL Tracker](http://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
+* [Optimus](http://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 
 ## eCommerce
 
