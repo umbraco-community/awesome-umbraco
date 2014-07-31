@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 ## eCommerce
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
+* [uCommerce](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
 
 ## Starter Kits
 
