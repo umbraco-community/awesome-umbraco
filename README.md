@@ -22,6 +22,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [Archetype](http://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple Property Editors for Umbraco 7 
 * [Config Tree](http://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [nuPickers](http://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Pickers for Umbraco 7.
+* [Sir Trevor](http://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive editor for web content.
 * [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property editor wrapper for multilingual content entry.
 
 ## Developer tools
