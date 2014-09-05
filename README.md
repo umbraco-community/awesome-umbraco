@@ -1,6 +1,6 @@
 # Awesome Umbraco!
 
-A collection of awesome [Umbraco](http://umbraco.com/) packages, resources and shiny things.
+A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
 
 Inspired by all of the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) collections. For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
 
