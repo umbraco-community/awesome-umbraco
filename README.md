@@ -39,6 +39,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 
 * [Articulate](http://our.umbraco.org/projects/starter-kits/articulate) - Blogging platform (Umbraco 7+).
 * [Dialogue](http://our.umbraco.org/projects/collaboration/dialogue) -  Fully featured forum / bulletin-board (Umbraco 7.1+).
+* [Hybrid Framework](http://our.umbraco.org/projects/developer-tools/hybrid-framework-for-umbraco-v7) - Visual Studio starter-kit, showcasing best practices for Umbraco 7.1+
 
 ## Website utilities
 
