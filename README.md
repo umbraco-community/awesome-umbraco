@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [nuPickers](http://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Pickers for Umbraco 7.
 * [Sir Trevor](http://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive editor for web content.
 * [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property editor wrapper for multilingual content entry.
+* [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 
 ## Developer tools
 
@@ -46,3 +47,4 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 
 * [ezSearch](http://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco 7
+* [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution
