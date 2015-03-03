@@ -14,6 +14,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
   * [eCommerce](#ecommerce)
   * [Starter Kits](#starter-kits)
   * [Website utilities](#website-utilities)
+  * [Umbraco products](#umbraco-products)
 
 
 ## Backoffice extensions
@@ -48,3 +49,10 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [ezSearch](http://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco 7
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution
+
+## Umbraco products
+
+These are paid for products from the Umbraco HQ team.
+
+* [Umbraco Forms](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
+* [Courier](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office
