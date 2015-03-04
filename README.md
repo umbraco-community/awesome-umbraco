@@ -8,14 +8,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-* [Awesome Umbraco](#awesome-umbraco)
-  * [Backoffice extensions](#backoffice-extensions)
-  * [Developer tools](#developer-tools)
-  * [eCommerce](#ecommerce)
-  * [Starter Kits](#starter-kits)
-  * [Website utilities](#website-utilities)
-  * [Umbraco products](#umbraco-products)
+* [Backoffice extensions](#backoffice-extensions)
+* [Developer tools](#developer-tools)
+* [eCommerce](#ecommerce)
+* [Starter Kits](#starter-kits)
+* [Website utilities](#website-utilities)
+* [Umbraco products](#umbraco-products)
 
+Please note * indicates that this package may require a license to get all the features offered.  
 
 ## Backoffice extensions
 
@@ -26,16 +26,19 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [Sir Trevor](http://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive editor for web content.
 * [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property editor wrapper for multilingual content entry.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
+* [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website
 
 ## Developer tools
 
 * [301 URL Tracker](http://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
 * [Optimus](http://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
+* [CMSImport*](http://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco
 
 ## eCommerce
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
-* [uCommerce](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
+* [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
+* [Tea Commerce*](http://www.teacommerce.net/) - eCommerce built on top of Umbraco
 
 ## Starter Kits
 
@@ -54,5 +57,5 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 
 These are paid for products from the Umbraco HQ team.
 
-* [Umbraco Forms](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
-* [Courier](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office
+* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
+* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office
