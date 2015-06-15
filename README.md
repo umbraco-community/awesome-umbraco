@@ -27,6 +27,7 @@ Please note * indicates that this package may require a license to get all the f
 * [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property editor wrapper for multilingual content entry.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website
+* [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property editor, uses doc types to define the list item blue prints. 
 
 ## Developer tools
 
