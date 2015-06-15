@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [eCommerce](#ecommerce)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
+* [Code Libraries](#code-libraries)
 * [Umbraco products](#umbraco-products)
 
 Please note * indicates that this package may require a license to get all the features offered.  
@@ -53,6 +54,10 @@ Please note * indicates that this package may require a license to get all the f
 * [ezSearch](http://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco 7
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution
+
+## Code Libraries
+
+* [Ditto](https://our.umbraco.org/projects/developer-tools/ditto/) - a lightweight POCO mapper for `IPublishedContent`
 
 ## Umbraco products
 
