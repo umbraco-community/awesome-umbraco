@@ -58,6 +58,7 @@ Please note * indicates that this package may require a license to get all the f
 ## Code Libraries
 
 * [Ditto](https://our.umbraco.org/projects/developer-tools/ditto/) - a lightweight POCO mapper for `IPublishedContent`
+* [Zbu Models Builder](https://github.com/zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically
 
 ## Umbraco products
 
