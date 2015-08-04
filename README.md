@@ -29,14 +29,14 @@ Please note * indicates that this package may require a license to get all the f
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property editor, uses doc types to define the list item blue prints.
-* [SEO Metadata](https://github.com/ryanlewis/seo-metadata) - Property editor for maintaing SEO metadata against your DocTypes
+* [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property editor for maintaing SEO metadata against your DocTypes
 
 ## Developer tools
 
 * [301 URL Tracker](http://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
 * [Optimus](http://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 * [CMSImport*](http://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco
-* [uSync](https://github.com/KevinJump/jumps.umbraco.usync) - Syncing tool for umbraco to read and write the database elements to disk
+* [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for umbraco to read and write the database elements to disk
 
 ## eCommerce
 
