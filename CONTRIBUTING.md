@@ -2,6 +2,7 @@
 
 * Use the following format: \[PACKAGE\]\(LINK\) - DESCRIPTION
 * The link should be the name of the package or project
+* Preferably the link should be to the Our Umbraco project page
 * Keep descriptions concise, clear and simple
 * New categories, or improvements to the existing ones are also welcome
 
