@@ -1,10 +1,8 @@
-# Awesome Umbraco!
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
 
-Inspired by all of the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) collections. For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page first.
 
