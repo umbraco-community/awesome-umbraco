@@ -43,6 +43,7 @@ Please note * indicates that this package may require a license to get all the f
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
 * [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
 * [Tea Commerce*](http://www.teacommerce.net/) - eCommerce built on top of Umbraco.
+* [Pipeline CRM*](https://our.umbraco.org/projects/backoffice-extensions/pipeline-crm/) - Customer Relationship Management for Umbraco.
 
 ## Starter Kits
 
