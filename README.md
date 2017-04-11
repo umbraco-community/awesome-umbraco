@@ -60,6 +60,7 @@ Please note * indicates that this package may require a license to get all the f
 * [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution.
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
+* [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
 
 ## Code Libraries
 
