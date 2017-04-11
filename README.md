@@ -30,6 +30,9 @@ Please note * indicates that this package may require a license to get all the f
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
 * [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
+* [Skybrud.LinkPicker](https://github.com/skybrud/Skybrud.LinkPicker) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
+* [Skybrud.ImagePicker](https://github.com/skybrud/Skybrud.ImagePicker) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
+
 
 ## Developer tools
 
@@ -63,6 +66,7 @@ Please note * indicates that this package may require a license to get all the f
 * [Ditto](https://our.umbraco.org/projects/developer-tools/ditto/) - a lightweight model mapper for `IPublishedContent`.
 * [Zbu Models Builder](https://github.com/zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically.
 * [Umbraco Core Property Value Converters](https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters) - implements converters for the Umbraco Core property-editors.
+* [Skybrud.Umbraco.GridData](https://github.com/skybrud/Skybrud.Umbraco.GridData) - a package for making the Umbraco grid strongly typed.
 
 ## Umbraco products
 
