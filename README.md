@@ -25,12 +25,15 @@ Please note * indicates that this package may require a license to get all the f
 * [Config Tree](http://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [nuPickers](http://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
 * [Sir Trevor](http://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
+* [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
 * [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
 * [RankOne - SEO Toolkit](https://our.umbraco.org/projects/backoffice-extensions/rankone-seo-toolkit/) - provides a collection of SEO tools for Umbraco that aim to optimize your content according to the latest SEO standards.
+* [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
+* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 
 ## Developer tools
 
