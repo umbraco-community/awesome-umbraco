@@ -30,6 +30,7 @@ Please note * indicates that this package may require a license to get all the f
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
 * [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
+* [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 
 ## Developer tools
 
