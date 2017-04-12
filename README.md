@@ -32,6 +32,7 @@ Please note * indicates that this package may require a license to get all the f
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
 * [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
+* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 
 ## Developer tools
 
