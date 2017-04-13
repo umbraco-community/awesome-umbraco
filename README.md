@@ -11,6 +11,10 @@ Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/g
 The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Backoffice extensions](#backoffice-extensions)
+  * [Form Builders](#form-builders)
+  * [Grid Editors](#grid-editors)
+  * [Property Editors](#property-editors)
+  * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
 * [eCommerce](#ecommerce)
 * [Starter Kits](#starter-kits)
@@ -23,24 +27,36 @@ Please note * indicates that the package is commercial or may require a license 
 ## Backoffice extensions
 
 * [Analytics](https://our.umbraco.org/projects/backoffice-extensions/analytics) - Integrates Google Analytics statistics within the back-office.
-* [Archetype](https://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple property-editors. 
 * [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
-* [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
-* [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
-* [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
-* [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
-* [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
-* [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
-* [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
-* [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
-* [Doc Type Grid Editor](https://our.umbraco.org/projects/backoffice-extensions/doc-type-grid-editor/) - Advanced grid editor for Umbraco.
-* [RankOne - SEO Toolkit](https://our.umbraco.org/projects/backoffice-extensions/rankone-seo-toolkit/) - provides a collection of SEO tools for Umbraco that aim to optimize your content according to the latest SEO standards.
+* [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+
+### Form Builders
+
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
-* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
+
+### Grid Editors
+
+* [Doc Type Grid Editor](https://our.umbraco.org/projects/backoffice-extensions/doc-type-grid-editor/) - Advanced grid editor for Umbraco.
+
+### Property Editors
+
+* [Archetype](https://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple property-editors.
+* [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
+* [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
+* [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
+* [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
 * [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
+* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
+* [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
+
+### SEO Tools
+
+* [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
+* [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
+* [RankOne - SEO Toolkit](https://our.umbraco.org/projects/backoffice-extensions/rankone-seo-toolkit/) - provides a collection of SEO tools for Umbraco that aim to optimize your content according to the latest SEO standards.
 
 ## Developer tools
 
