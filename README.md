@@ -30,6 +30,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+* [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 
 ### Form Builders
 
@@ -53,6 +54,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 * [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
+* [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
 
 ### SEO Tools
 
