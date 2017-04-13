@@ -10,7 +10,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 
 * [Backoffice extensions](#backoffice-extensions)
 * [Developer tools](#developer-tools)
-* [eCommerce](#ecommerce)
+* [eCommerce & CRM](#ecommerce-crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
@@ -48,7 +48,7 @@ Please note * indicates that this package may require a license to get all the f
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 
-## eCommerce
+## eCommerce &amp; CRM
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
 * [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
