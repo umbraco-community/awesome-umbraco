@@ -20,13 +20,13 @@ Please note * indicates that this package may require a license to get all the f
 
 ## Backoffice extensions
 
-* [Analytics](http://our.umbraco.org/projects/backoffice-extensions/analytics) - Integrates Google Analytics statistics within the back-office.
-* [Archetype](http://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple property-editors. 
-* [Config Tree](http://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
-* [nuPickers](http://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
-* [Sir Trevor](http://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
+* [Analytics](https://our.umbraco.org/projects/backoffice-extensions/analytics) - Integrates Google Analytics statistics within the back-office.
+* [Archetype](https://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple property-editors. 
+* [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
+* [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
+* [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
-* [Vorto](http://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
+* [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
@@ -42,8 +42,8 @@ Please note * indicates that this package may require a license to get all the f
 
 ## Developer tools
 
-* [301 URL Tracker](http://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
-* [Optimus](http://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
+* [301 URL Tracker](https://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
+* [Optimus](https://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 * [CMSImport*](http://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
@@ -57,15 +57,15 @@ Please note * indicates that this package may require a license to get all the f
 
 ## Starter Kits
 
-* [Articulate](http://our.umbraco.org/projects/starter-kits/articulate) - Blogging platform.
-* [Dialogue](http://our.umbraco.org/projects/collaboration/dialogue) -  Fully featured forum / bulletin-board.
-* [Hybrid Framework](http://our.umbraco.org/projects/developer-tools/hybrid-framework-for-umbraco-v7) - Visual Studio starter-kit, showcasing best practices.
-* [LocalGov Starter Kit](http://our.umbraco.org/projects/starter-kits/localgov-starter-kit) - Local government style website.
+* [Articulate](https://our.umbraco.org/projects/starter-kits/articulate) - Blogging platform.
+* [Dialogue](https://our.umbraco.org/projects/collaboration/dialogue) -  Fully featured forum / bulletin-board.
+* [Hybrid Framework](https://our.umbraco.org/projects/developer-tools/hybrid-framework-for-umbraco-v7) - Visual Studio starter-kit, showcasing best practices.
+* [LocalGov Starter Kit](https://our.umbraco.org/projects/starter-kits/localgov-starter-kit) - Local government style website.
 
 ## Website utilities
 
-* [ezSearch](http://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
-* [Slimsy](http://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
+* [ezSearch](https://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
+* [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution.
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
