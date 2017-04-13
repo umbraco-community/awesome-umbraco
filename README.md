@@ -46,7 +46,6 @@ Please note * indicates that the package is commercial or may require a license 
 * [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
 * [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
-* [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
 * [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
