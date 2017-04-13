@@ -87,6 +87,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [ezSearch](https://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution.
+* [Robotnik](https://our.umbraco.org/projects/developer-tools/robotnik/) - Specify a different robots.txt for each domain (staging/production, brand 1/brand 2).
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
 
