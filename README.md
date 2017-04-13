@@ -4,9 +4,11 @@ A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and
 
 Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
 
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page first.
+**Contributions are always welcome!** Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request.
 
-Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you!
+
+The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Backoffice extensions](#backoffice-extensions)
 * [Developer tools](#developer-tools)
@@ -16,7 +18,7 @@ Thanks to all [contributors](https://github.com/leekelleher/awesome-umbraco/grap
 * [Code Libraries](#code-libraries)
 * [Umbraco products](#umbraco-products)
 
-Please note * indicates that this package may require a license to get all the features offered.  
+Please note * indicates that the package is commercial or may require a license to unlock all features.
 
 ## Backoffice extensions
 
@@ -79,7 +81,7 @@ Please note * indicates that this package may require a license to get all the f
 
 ## Umbraco products
 
-These are paid for products from the Umbraco HQ team.
+These are commercial products from the Umbraco HQ team.
 
 * [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
 * [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office.
