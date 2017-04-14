@@ -53,6 +53,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 * [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
+* [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 
 ### SEO Tools
 
