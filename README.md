@@ -16,7 +16,7 @@ The goal is to build a categorized community-driven collection of very well-know
   * [Property Editors](#property-editors)
   * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
-* [eCommerce](#ecommerce)
+* [eCommerce & CRM](#ecommerce-crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
@@ -30,6 +30,8 @@ Please note * indicates that the package is commercial or may require a license 
 * [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+* [Find and Replace](https://our.umbraco.org/projects/backoffice-extensions/find-and-replace/) - A simple and intuitive package which allows editors to find and replace content.
+* [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 * [Umbraco Latch](https://our.umbraco.org/projects/backoffice-extensions/umbraco-latch/) - Protect different operations in the backoffice like login, create content, etc. using the Latch service.
 
 ### Form Builders
@@ -50,8 +52,12 @@ Please note * indicates that the package is commercial or may require a license 
 * [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
 * [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
+* [Styled Textbox](https://our.umbraco.org/projects/backoffice-extensions/styled-textbox/) - A configural property editor to "replace" the generic textbox & textarea properties. It allows for inline CSS as well as adding classes and having placeholder text.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
+* [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
+* [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
+* [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
 
 ### SEO Tools
 
@@ -67,7 +73,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 
-## eCommerce
+## eCommerce &amp; CRM
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
 * [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
@@ -86,6 +92,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [ezSearch](https://our.umbraco.org/projects/website-utilities/ezsearch) - Add-on website search.
 * [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [Cultiv DynamicRobots](https://our.umbraco.org/projects/website-utilities/cultiv-dynamicrobots) - Updates the host in robots.txt for multisite solution.
+* [Robotnik](https://our.umbraco.org/projects/developer-tools/robotnik/) - Specify a different robots.txt for each domain (staging/production, brand 1/brand 2).
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
 
