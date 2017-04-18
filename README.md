@@ -30,6 +30,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+* [Find and Replace](https://our.umbraco.org/projects/backoffice-extensions/find-and-replace/) - A simple and intuitive package which allows editors to find and replace content.
 * [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 
 ### Form Builders
