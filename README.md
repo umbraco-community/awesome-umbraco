@@ -16,11 +16,11 @@ The goal is to build a categorized community-driven collection of very well-know
   * [Property Editors](#property-editors)
   * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
+  * [Deployment](#deployment)
 * [eCommerce & CRM](#ecommerce-crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
-* [Umbraco products](#umbraco-products)
 
 Please note * indicates that the package is commercial or may require a license to unlock all features.
 
@@ -36,6 +36,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Form Builders
 
+* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
@@ -73,6 +74,10 @@ Please note * indicates that the package is commercial or may require a license 
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 
+### Deployment
+
+* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
+
 ## eCommerce &amp; CRM
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
@@ -103,12 +108,6 @@ Please note * indicates that the package is commercial or may require a license 
 * [Umbraco Core Property Value Converters](https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters) - implements converters for the Umbraco Core property-editors.
 * [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - a package for making the Umbraco grid strongly typed.
 
-## Umbraco products
-
-These are commercial products from the Umbraco HQ team.
-
-* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
-* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office.
 
 ---
 
