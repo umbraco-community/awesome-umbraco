@@ -36,7 +36,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Form Builders
 
-* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site.
+* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
@@ -76,7 +76,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Deployment
 
-* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office.
+* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
 
 ## eCommerce &amp; CRM
 
@@ -107,9 +107,6 @@ Please note * indicates that the package is commercial or may require a license 
 * [Zbu Models Builder](https://github.com/zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically.
 * [Umbraco Core Property Value Converters](https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters) - implements converters for the Umbraco Core property-editors.
 * [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - a package for making the Umbraco grid strongly typed.
-
-
-
 
 
 ---
