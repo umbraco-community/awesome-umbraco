@@ -17,7 +17,7 @@ The goal is to build a categorized community-driven collection of very well-know
   * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
   * [Deployment](#deployment)
-* [eCommerce & CRM](#ecommerce-crm)
+* [eCommerce & CRM](#ecommerce--crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
