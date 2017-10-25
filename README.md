@@ -36,7 +36,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Form Builders
 
-* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
+* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
 * [Form Editor](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
