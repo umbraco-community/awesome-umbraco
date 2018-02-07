@@ -84,6 +84,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
 * [Tea Commerce*](http://www.teacommerce.net/) - eCommerce built on top of Umbraco.
 * [Pipeline CRM*](https://our.umbraco.org/projects/backoffice-extensions/pipeline-crm/) - Customer Relationship Management for Umbraco.
+* [Ultimate u12*](https://www.ultimatebusinessware.com/u12/) - .NET eCommerce solution integrated with Umbraco.NET platform.
 
 ## Starter Kits
 
