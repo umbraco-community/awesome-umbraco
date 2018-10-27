@@ -100,6 +100,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Robotnik](https://our.umbraco.org/projects/developer-tools/robotnik/) - Specify a different robots.txt for each domain (staging/production, brand 1/brand 2).
 * [Full Text Search](https://our.umbraco.org/projects/website-utilities/full-text-search/) - A search solution for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
+* [Look](https://our.umbraco.com/packages/developer-tools/look/) - Extends Umbraco Examine adding support for: text match highlighting, geospatial querying and tag faceting.
 
 ## Code Libraries
 
