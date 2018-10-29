@@ -8,11 +8,9 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For genera
 
 **Contributions are always welcome!** 
 
-Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained or is not a good fit, please submit a pull request to improve this file
+Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained, please submit a pull request to help improve this collection.
 
-Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you!
-
-The goal is to build a categorized community-driven collection of very well-known resources.
+Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Contents
 
@@ -44,10 +42,10 @@ Please note * indicates that the package is commercial or may require a license 
 ## Community
 
 * [skrift.io](https://skrift.io/) - monthly newsletter for sharing knowledge in the Umbraco community
-* [umbraCoffee](https://www.youtube.com/channel/UCF_Ene5-58a3Z55aw8O6Djg)
-* [Blog posts](https://our.umbraco.com/community/blog-posts/)
+* [umbraCoffee](https://www.youtube.com/channel/UCF_Ene5-58a3Z55aw8O6Djg) - youtube series talking through weekly news about Umbraco
+* [Blog posts](https://our.umbraco.com/community/blog-posts/) - blog feed from the Umbraco community
 * [#H5YR](http://h5yr.com/) - High Five, You Rock!
-* [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0)
+* [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - youtube series from the chief unicorn
 
 ---
 
