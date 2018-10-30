@@ -46,7 +46,6 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Property Editors
 
-* [Archetype](https://our.umbraco.org/projects/backoffice-extensions/archetype) - Group multiple property-editors.
 * [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
 * [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
