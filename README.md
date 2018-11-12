@@ -1,15 +1,21 @@
 # Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
+> A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
 Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
 
-**Contributions are always welcome!** Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request.
+### Contributing
 
-Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you!
+**Contributions are always welcome!** 
 
-The goal is to build a categorized community-driven collection of very well-known resources.
+Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained, please submit a pull request to help improve this collection.
 
+Thank you to all [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+### Contents
+
+* [Official](#official)
+* [Community](#community)
 * [Backoffice extensions](#backoffice-extensions)
   * [Form Builders](#form-builders)
   * [Grid Editors](#grid-editors)
@@ -24,15 +30,38 @@ The goal is to build a categorized community-driven collection of very well-know
 
 Please note * indicates that the package is commercial or may require a license to unlock all features.
 
+## Official
+
+* [Umbraco website](https://umbraco.com)
+* [Forum](https://our.umbraco.com/forum/)
+* [Documentation](https://our.umbraco.com/documentation/)
+* [Download Umbraco](https://our.umbraco.com/download/)
+* [Conference](https://codegarden19.com/)
+* [Meetups](https://www.meetup.com/pro/umbraco)
+
+## Community
+
+* [skrift.io](https://skrift.io/) - monthly newsletter for sharing knowledge in the Umbraco community
+* [umbraCoffee](https://www.youtube.com/channel/UCF_Ene5-58a3Z55aw8O6Djg) - youtube series talking through weekly news about Umbraco
+* [Blog posts](https://our.umbraco.com/community/blog-posts/) - blog feed from the Umbraco community
+* [#H5YR](http://h5yr.com/) - High Five, You Rock!
+* [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - youtube series from the chief unicorn
+
+---
+
 ## Backoffice extensions
 
 * [Analytics](https://our.umbraco.org/projects/backoffice-extensions/analytics) - Integrates Google Analytics statistics within the back-office.
 * [Config Tree](https://our.umbraco.org/projects/developer-tools/config-tree) - Edit `*.config` files within the back-office.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+* [Fluidity](https://our.umbraco.com/packages/backoffice-extensions/fluidity/) - Evolved from UI-O-Matic, allows you to manage custom data structures configured via a fluent API.
 * [Find and Replace](https://our.umbraco.org/projects/backoffice-extensions/find-and-replace/) - A simple and intuitive package which allows editors to find and replace content.
 * [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 * [Umbraco Latch](https://our.umbraco.org/projects/backoffice-extensions/umbraco-latch/) - Protect different operations in the backoffice like login, create content, etc. using the Latch service.
+* [Diplo Dictionary Editor](https://our.umbraco.com/packages/backoffice-extensions/diplo-dictionary-editor/) - custom section for editing dictionary items and also allows the dictionary to be exported and imported.
+* [Translation Manager](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
+* [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - adds a heap of useful bits and pieces to Umbraco, to allow multi-staged workflow approval.
 
 ### Form Builders
 
@@ -62,7 +91,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### SEO Tools
 
-* [SEO Checker*](http://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
+* [SEO Checker*](https://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
 * [SEO Metadata](https://our.umbraco.org/projects/backoffice-extensions/seo-metadata-for-umbraco/) - Property-editor for maintaining SEO metadata against your DocTypes.
 * [RankOne - SEO Toolkit](https://our.umbraco.org/projects/backoffice-extensions/rankone-seo-toolkit/) - provides a collection of SEO tools for Umbraco that aim to optimize your content according to the latest SEO standards.
 
@@ -70,19 +99,19 @@ Please note * indicates that the package is commercial or may require a license 
 
 * [301 URL Tracker](https://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
 * [Optimus](https://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
-* [CMSImport*](http://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
+* [CMSImport*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 
 ### Deployment
 
-* [Courier*](http://umbraco.com/products/more-add-ons/courier-2) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
+* [Courier*](https://umbraco.com/products/umbraco-courier/) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
 
 ## eCommerce &amp; CRM
 
-* [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
-* [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
-* [Tea Commerce*](http://www.teacommerce.net/) - eCommerce built on top of Umbraco.
+* [Merchello](https://merchello.com/) - High performance, open source eCommerce package.
+* [uCommerce*](https://ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
+* [Tea Commerce*](https://teacommerce.net/) - eCommerce built on top of Umbraco.
 * [Pipeline CRM*](https://our.umbraco.org/projects/backoffice-extensions/pipeline-crm/) - Customer Relationship Management for Umbraco.
 
 ## Starter Kits
