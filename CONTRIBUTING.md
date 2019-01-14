@@ -16,4 +16,4 @@ To stay on the list, projects should follow these quality standards:
 * Stable
 * Documented
 
-Thank you to all the [contributors](https://github.com/leekelleher/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you!
+Thank you to all the [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you!
