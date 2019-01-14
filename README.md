@@ -62,6 +62,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Diplo Dictionary Editor](https://our.umbraco.com/packages/backoffice-extensions/diplo-dictionary-editor/) - custom section for editing dictionary items and also allows the dictionary to be exported and imported.
 * [Translation Manager](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - adds a heap of useful bits and pieces to Umbraco, to allow multi-staged workflow approval.
+* [v7 Dialog Expander](https://our.umbraco.com/packages/backoffice-extensions/v7-dialog-expander/) - This package is a simple UI enhancement to the v7 right-side dialog flyouts to allow a content editor to make the dialog bigger or back to normal.  It is helpful for Grid and Stacked Content property editors.
 
 ### Form Builders
 
@@ -88,6 +89,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
+* [Inline HTML Help Label](https://our.umbraco.com/packages/backoffice-extensions/inline-html-help-label/) - Created inline HTML-based labels to provide help to content editorys.  Includes an option for a flyout dialog for more detailed help.
 
 ### SEO Tools
 
