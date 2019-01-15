@@ -45,6 +45,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [umbraCoffee](https://www.youtube.com/umbracoffee) - a weekly YouTube series discussing recent Umbraco news.
 * [Blog Posts](https://our.umbraco.com/community/blog-posts/) - blog posts by members of the Umbraco community and Umbraco HQ.
 * [#h5yr](https://h5yr.com/) - High Five, You Rock!
+* [Umbraco HQ - official YouTube Channel](https://www.youtube.com/umbracohq) - tutorials and other helpful videos about Umbraco products.
 * [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - YouTube series from the Chief Unicorn, Niels Hartvig.
 
 ---
