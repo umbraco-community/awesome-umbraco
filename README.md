@@ -33,10 +33,10 @@ Please note * indicates that the package is commercial or may require a license 
 ## Official
 
 * [Umbraco website](https://umbraco.com)
-* [Forum](https://our.umbraco.com/forum/)
+* [CodeGarden Conference](https://codegarden19.com/)
 * [Documentation](https://our.umbraco.com/documentation/)
-* [Download Umbraco](https://our.umbraco.com/download/)
-* [Conference](https://codegarden19.com/)
+* [Download](https://our.umbraco.com/download/)
+* [Forum](https://our.umbraco.com/forum/)
 * [Meetups](https://www.meetup.com/pro/umbraco)
 * [Official YouTube Channel](https://www.youtube.com/umbracohq) - tutorials and other helpful videos about Umbraco products.
 
