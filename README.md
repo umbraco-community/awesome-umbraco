@@ -41,7 +41,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ## Community
 
-* [skrift.io](https://skrift.io/) - monthly newsletter for sharing knowledge in the Umbraco community
+* [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
 * [umbraCoffee](https://www.youtube.com/channel/UCF_Ene5-58a3Z55aw8O6Djg) - youtube series talking through weekly news about Umbraco
 * [Blog posts](https://our.umbraco.com/community/blog-posts/) - blog feed from the Umbraco community
 * [#H5YR](http://h5yr.com/) - High Five, You Rock!
