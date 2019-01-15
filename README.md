@@ -42,7 +42,7 @@ Please note * indicates that the package is commercial or may require a license 
 ## Community
 
 * [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
-* [umbraCoffee](https://www.youtube.com/channel/UCF_Ene5-58a3Z55aw8O6Djg) - youtube series talking through weekly news about Umbraco
+* [umbraCoffee](https://www.youtube.com/umbracoffee) - a weekly YouTube series discussing recent Umbraco news.
 * [Blog posts](https://our.umbraco.com/community/blog-posts/) - blog feed from the Umbraco community
 * [#H5YR](http://h5yr.com/) - High Five, You Rock!
 * [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - youtube series from the chief unicorn
