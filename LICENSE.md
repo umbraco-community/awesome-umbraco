@@ -26,4 +26,6 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-Copyright &copy; 2014 Umbraco Community
+Copyright &copy; 2019 Umbraco Community
+
+Copyright &copy; 2014 Lee Kelleher
