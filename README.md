@@ -63,6 +63,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Translation Manager](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Umbraco Latch](https://our.umbraco.org/projects/backoffice-extensions/umbraco-latch/) - Protect different operations in the backoffice like login, create content, etc. using the Latch service.
+* [v7 Dialog Expander](https://our.umbraco.com/packages/backoffice-extensions/v7-dialog-expander/) - This package is a simple UI enhancement to the v7 right-side dialog flyouts to allow a content editor to make the dialog bigger or back to normal.  It is helpful for Grid and Stacked Content property editors.
 
 ### Form Builders
 
@@ -77,6 +78,7 @@ Please note * indicates that the package is commercial or may require a license 
 ### Property Editors
 
 * [Archetype](https://github.com/kgiszewski/Archetype) - Group multiple property-editors.
+* [Inline HTML Help Label](https://our.umbraco.com/packages/backoffice-extensions/inline-html-help-label/) - Created inline HTML-based labels to provide help to content editors.  Includes an option for a flyout dialog for more detailed help.
 * [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
