@@ -89,7 +89,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
-* [Inline HTML Help Label](https://our.umbraco.com/packages/backoffice-extensions/inline-html-help-label/) - Created inline HTML-based labels to provide help to content editorys.  Includes an option for a flyout dialog for more detailed help.
+* [Inline HTML Help Label](https://our.umbraco.com/packages/backoffice-extensions/inline-html-help-label/) - Created inline HTML-based labels to provide help to content editors.  Includes an option for a flyout dialog for more detailed help.
 
 ### SEO Tools
 
