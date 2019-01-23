@@ -111,6 +111,8 @@ Please note * indicates that the package is commercial or may require a license 
 ### Deployment
 
 * [Courier*](https://umbraco.com/products/umbraco-courier/) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
+* [Courier Contrib](https://github.com/umbraco/Umbraco.Courier.Contrib) - Adds data-resolvers for the most popular Umbraco community packages - these are used by Courier (and Umbraco Cloud) to aid with the deployment and transferring of content/property-data to a target environment. **Maintained by Umbraco HQ**
+* [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers connectors for the most popular Umbraco community packages 
 
 ## eCommerce &amp; CRM
 
