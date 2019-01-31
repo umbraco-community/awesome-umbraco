@@ -60,7 +60,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 * [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - adds a heap of useful bits and pieces to Umbraco, to allow multi-staged workflow approval.
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
-* [Translation Manager](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
+* [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Umbraco Latch](https://our.umbraco.org/projects/backoffice-extensions/umbraco-latch/) - Protect different operations in the backoffice like login, create content, etc. using the Latch service.
 * [v7 Dialog Expander](https://our.umbraco.com/packages/backoffice-extensions/v7-dialog-expander/) - This package is a simple UI enhancement to the v7 right-side dialog flyouts to allow a content editor to make the dialog bigger or back to normal.  It is helpful for Grid and Stacked Content property editors.
