@@ -1,4 +1,4 @@
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
