@@ -102,11 +102,11 @@ Please note * indicates that the package is commercial or may require a license 
 
 ## Developer tools
 
-* [301 URL Tracker](https://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs.
 * [CMSImport*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 * [Optimus](https://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
+* [Skybrud.Umbraco.Redirects](https://github.com/skybrud/Skybrud.Umbraco.Redirects) - Redirects manager for Umbraco.
 * [Our HealthChecks](https://our.umbraco.com/packages/backoffice-extensions/ourumbracohealthchecks/) - Adds addtional health checks to the back office.
 
 ### Deployment
