@@ -58,6 +58,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
+* [Page Not Found Manager] (https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco
 
 ### Form Builders
 
@@ -94,7 +95,6 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Deployment
 
-* [Courier Contrib](https://github.com/umbraco/Umbraco.Courier.Contrib) - Adds data-resolvers for the most popular Umbraco community packages - these are used by Courier to aid with the deployment and transferring of content/property-data to a target environment. **(Maintained by Umbraco HQ)**
 * [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** _Umbraco Cloud only_
 
 ## eCommerce &amp; CRM
