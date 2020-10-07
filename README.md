@@ -63,6 +63,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Umbraco Latch](https://our.umbraco.org/projects/backoffice-extensions/umbraco-latch/) - Protect different operations in the backoffice like login, create content, etc. using the Latch service.
+* [Umbraco Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - This allows editors to pick pages from their content tree to use as their 404 page.
 * [v7 Dialog Expander](https://our.umbraco.com/packages/backoffice-extensions/v7-dialog-expander/) - This package is a simple UI enhancement to the v7 right-side dialog flyouts to allow a content editor to make the dialog bigger or back to normal.  It is helpful for Grid and Stacked Content property editors.
 
 ### Form Builders
@@ -112,7 +113,6 @@ Please note * indicates that the package is commercial or may require a license 
 ### Deployment
 
 * [Courier*](https://umbraco.com/products/umbraco-courier/) - Deploy changes from within the back-office. **(Developed by Umbraco HQ)**
-* [Courier Contrib](https://github.com/umbraco/Umbraco.Courier.Contrib) - Adds data-resolvers for the most popular Umbraco community packages - these are used by Courier to aid with the deployment and transferring of content/property-data to a target environment. **(Maintained by Umbraco HQ)**
 * [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** _Umbraco Cloud only_
 
 ## eCommerce &amp; CRM
