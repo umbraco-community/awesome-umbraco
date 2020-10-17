@@ -112,7 +112,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 * [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
 * [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
-* [Matryoshka] (https://our.umbraco.com/packages/backoffice-extensions/matryoshka-tabs-for-umbraco-8/) - Adding back tabs in Umbraco
+* [Matryoshka](https://our.umbraco.com/packages/backoffice-extensions/matryoshka-tabs-for-umbraco-8/) - Adding back tabs in Umbraco
 
 ## Code Libraries
 
