@@ -13,6 +13,7 @@ Please read the [contribution guidelines and quality standard](https://github.co
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Contents
+This list is for Umbraco v8, if you looking for v7, you can find those [here](UMBRACO-V7.md).
 
 * [Official](#official)
 * [Community](#community)
@@ -43,6 +44,7 @@ Please note * indicates that the package is commercial or may require a license 
 ## Community
 
 * [#h5yr](https://h5yr.com/) - High Five, You Rock!
+* [24 Days In Umbraco](https://24days.in/umbraco-cms/) - yearly advent calendar for Umbraco content.
 * [Blog Posts](https://our.umbraco.com/community/blog-posts/) - blog posts by members of the Umbraco community and Umbraco HQ.
 * [Candid Contributions](https://candidcontributions.com/) - a fortnightly podcast discussing all things Umbraco and open source.
 * [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
