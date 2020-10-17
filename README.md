@@ -62,7 +62,8 @@ Please note * indicates that the package is commercial or may require a license 
 * [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
-* [Page Not Found Manager] (https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco
+* [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco.
+* [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
 
 ### Form Builders
 
