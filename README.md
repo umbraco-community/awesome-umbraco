@@ -106,6 +106,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 * [Vendr*](https://vendr.net/) - eCommerce built on top of Umbraco.
 * [uCommerce*](https://ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
+* [Merch Theme by uSkinned](https://uskinned.net/themes/merch/) - eCommerce theme for Umbraco, powered by [Snipcart](https://snipcart.com/blog/umbraco-ecommerce-theme)
 
 ## Starter Kits
 
