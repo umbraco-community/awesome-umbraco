@@ -33,7 +33,7 @@ Please note * indicates that the package is commercial or may require a license 
 ## Official
 
 * [Umbraco website](https://umbraco.com)
-* [CodeGarden Conference](https://codegarden19.com/)
+* [CodeGarden Conference](https://codegarden20.com/)
 * [Documentation](https://our.umbraco.com/documentation/)
 * [Download](https://our.umbraco.com/download/)
 * [Forum](https://our.umbraco.com/forum/)
@@ -44,9 +44,11 @@ Please note * indicates that the package is commercial or may require a license 
 
 * [#h5yr](https://h5yr.com/) - High Five, You Rock!
 * [Blog Posts](https://our.umbraco.com/community/blog-posts/) - blog posts by members of the Umbraco community and Umbraco HQ.
+* [Candid Contributions](https://candidcontributions.com/) - a fortnightly podcast discussing all things Umbraco and open source.
 * [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
 * [umbraCoffee](https://www.youtube.com/umbracoffee) - a weekly YouTube series discussing recent Umbraco news.
 * [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - YouTube series from the Chief Unicorn, Niels Hartvig.
+* [Official YouTube Channel](https://www.youtube.com/c/umbracocommunity/) - the Umbraco community YouTube channel.
 
 ---
 
