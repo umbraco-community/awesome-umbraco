@@ -13,7 +13,7 @@ Please read the [contribution guidelines and quality standard](https://github.co
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Contents
-This list is for Umbraco v8, if you looking for v7, you can find those [here](UMBRACO-V7.md).
+This list is for Umbraco v9, if you looking for v8, you can find those [here](UMBRACO-V8.md).
 
 * [Official](#official)
 * [Community](#community)
