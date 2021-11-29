@@ -19,14 +19,11 @@ This list is for Umbraco v9, if you looking for v8, you can find those [here](UM
 * [Community](#community)
 * [Backoffice extensions](#backoffice-extensions)
   * [Form Builders](#form-builders)
-  * [Grid Editors](#grid-editors)
   * [Property Editors](#property-editors)
-  * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
   * [Deployment](#deployment)
 * [eCommerce & CRM](#ecommerce--crm)
 * [Starter Kits](#starter-kits)
-* [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
 
 Please note * indicates that the package is commercial or may require a license to unlock all features.
@@ -49,7 +46,6 @@ Please note * indicates that the package is commercial or may require a license 
 * [Candid Contributions](https://candidcontributions.com/) - a fortnightly podcast discussing all things Umbraco and open source.
 * [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
 * [umbraCoffee](https://www.youtube.com/umbracoffee) - a weekly YouTube series discussing recent Umbraco news.
-* [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - YouTube series from the Chief Unicorn, Niels Hartvig.
 * [Official YouTube Channel](https://www.youtube.com/c/umbracocommunity/) - the Umbraco community YouTube channel.
 
 ---
@@ -64,10 +60,6 @@ Please note * indicates that the package is commercial or may require a license 
 ### Form Builders
 
 * [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
-
-### Grid Editors
-
-* [Doc Type Grid Editor](https://our.umbraco.org/projects/backoffice-extensions/doc-type-grid-editor/) - Advanced grid editor for Umbraco.
 
 ### Property Editors
 
