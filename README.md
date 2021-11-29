@@ -64,6 +64,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco.
 * [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
+* [Protect Used Media](https://our.umbraco.com/packages/backoffice-extensions/umbracareprotectusedmedia/) - The package protects against the unexpected removal of media used in documents.
 
 ### Form Builders
 
@@ -85,6 +86,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 * [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
+* [Star Rating](https://our.umbraco.com/packages/backoffice-extensions/umbracarestarrating-property-editor/) - A simple property editor simplifies the rating by enabling an eye-catching star-based plugin.
 
 ### SEO Tools
 
