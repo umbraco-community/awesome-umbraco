@@ -56,6 +56,12 @@ Please note * indicates that the package is commercial or may require a license 
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
 * [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/hot-chilli-page-not-found-manager) - Manage your sites 404 page(s) from Umbraco.
 * [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
+* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - Redirects manager for Umbraco.
+* [SimpleRedirects](https://our.umbraco.com/packages/backoffice-extensions/simpleredirects/) - Redirects manager for Umbraco.
+* [Newsletter Studio*](https://our.umbraco.com/packages/backoffice-extensions/newsletter-studio-the-email-studio/) - Responsive email editor to create emails for all clients.
+* [Backoffice Themes](https://our.umbraco.com/packages/backoffice-extensions/backoffice-themes/) - Allows choosing your own themes for in the backoffice.
+* [Preflight](https://our.umbraco.com/packages/backoffice-extensions/preflight-content-health-checks-for-umbraco-8/) - Framework for content quality assurance
+* [MemberListView](https://our.umbraco.com/packages/backoffice-extensions/memberlistview/) - Adds a dashboard for the members area for easier management.
 
 ### Form Builders
 
@@ -67,12 +73,13 @@ Please note * indicates that the package is commercial or may require a license 
 * [Personalisation Groups](https://our.umbraco.com/packages/website-utilities/personalisation-groups/) - allow personalisation of content to different groups of site visitors
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
+* [Open or closed](https://our.umbraco.com/packages/backoffice-extensions/open-or-closed/) - Property editor to allow setting up business hours.
 
 ## Developer tools
 
 * [CMSImport*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
-* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - Redirects manager for Umbraco.
+* [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - Exposes a lot of information for developers.
 
 ### Deployment
 
@@ -85,6 +92,11 @@ Please note * indicates that the package is commercial or may require a license 
 ## Starter Kits
 
 * [Clean Starter Kit](https://our.umbraco.com/packages/starter-kits/clean-starter-kit/) - Clean and simple website to get started with
+
+## Website Utilities
+
+* [InboundLinkErrors](https://our.umbraco.com/packages/website-utilities/inbound-link-errors/) - Tracks 404 responses so you can easily add new redirects.
+* [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - Fast and easy way to setup search for your website.
 
 ## Code Libraries
 
