@@ -64,6 +64,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
 * [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco.
 * [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
+* [Key value list](https://our.umbraco.com/packages/backoffice-extensions/key-value-list/) - A dropdown property editor with displayvalues
 
 ### Form Builders
 
@@ -92,11 +93,14 @@ Please note * indicates that the package is commercial or may require a license 
 
 ## Developer tools
 
+* [301 URL Tracker](https://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs and 404s.
 * [CMSImport*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 * [Optimus](https://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - Redirects manager for Umbraco.
 * [Our HealthChecks](https://our.umbraco.com/packages/backoffice-extensions/ourumbracohealthchecks/) - Adds addtional health checks to the back office.
+* [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
+* [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
 
 ### Deployment
 
