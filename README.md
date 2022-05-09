@@ -1,4 +1,4 @@
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) [![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](https://our.umbraco.com/download/releases/900)
 
 > A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
@@ -12,9 +12,13 @@ Please read the [contribution guidelines and quality standard](https://github.co
 
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-### Contents
-This list is for Umbraco v9, if you looking for v8, you can find those [here](UMBRACO-V8.md).
+### Versions
+This list is for Umbraco v9 packages. However, we also have lists for older versions! Check them out too.
 
+[![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](UMBRACO-V8.md)
+[![UmbracoV7](https://img.shields.io/badge/Umbraco-v7-blue)](UMBRACO-V7.md)
+
+### Contents
 * [Official](#official)
 * [Community](#community)
 * [Backoffice extensions](#backoffice-extensions)
