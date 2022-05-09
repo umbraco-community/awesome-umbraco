@@ -1,4 +1,4 @@
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) [![UmbracoV7](https://img.shields.io/badge/Umbraco-v7-blue)](https://our.umbraco.com/download/releases/700)
 
 > A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
@@ -11,6 +11,12 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For genera
 Please read the [contribution guidelines and quality standard](https://github.com/umbraco-community/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained, please submit a pull request to help improve this collection.
 
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+### Versions
+This list is for Umbraco v8 packages. However, we also have lists for other versions! Check them out too.
+
+[![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](UMBRACO-V9.md)
+[![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](UMBRACO-V8.md)
 
 ### Contents
 
