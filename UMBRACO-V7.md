@@ -13,7 +13,7 @@ Please read the [contribution guidelines and quality standard](https://github.co
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Versions
-This list is for Umbraco v8 packages. However, we also have lists for other versions! Check them out too.
+This list is for Umbraco v7 packages. However, we also have lists for other versions! Check them out too.
 
 [![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](UMBRACO-V9.md)
 [![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](UMBRACO-V8.md)
