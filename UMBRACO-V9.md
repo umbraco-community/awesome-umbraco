@@ -1,4 +1,4 @@
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) [![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](https://our.umbraco.com/download/releases/800)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) [![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](https://our.umbraco.com/download/releases/900)
 
 > A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
@@ -13,10 +13,10 @@ Please read the [contribution guidelines and quality standard](https://github.co
 Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Versions
-This list is for Umbraco v8 packages. However, we also have lists for other versions! Check them out too.
+This list is for Umbraco v9 packages. However, we also have lists for older versions! Check them out too.
 
 [![UmbracoV10](https://img.shields.io/badge/Umbraco-v10-blue)](README.md)
-[![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](UMBRACO-V9.md)
+[![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](UMBRACO-V8.md)
 [![UmbracoV7](https://img.shields.io/badge/Umbraco-v7-blue)](UMBRACO-V7.md)
 
 ### Contents
@@ -24,14 +24,11 @@ This list is for Umbraco v8 packages. However, we also have lists for other vers
 * [Community](#community)
 * [Backoffice extensions](#backoffice-extensions)
   * [Form Builders](#form-builders)
-  * [Grid Editors](#grid-editors)
   * [Property Editors](#property-editors)
-  * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
   * [Deployment](#deployment)
 * [eCommerce & CRM](#ecommerce--crm)
 * [Starter Kits](#starter-kits)
-* [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
 
 Please note * indicates that the package is commercial or may require a license to unlock all features.
@@ -54,56 +51,40 @@ Please note * indicates that the package is commercial or may require a license 
 * [Candid Contributions](https://candidcontributions.com/) - a fortnightly podcast discussing all things Umbraco and open source.
 * [Skrift](https://skrift.io/) - a monthly magazine for sharing knowledge in the Umbraco community.
 * [umbraCoffee](https://www.youtube.com/umbracoffee) - a weekly YouTube series discussing recent Umbraco news.
-* [Unicorner](https://www.youtube.com/playlist?list=PLG_nqaT-rbpwZDRQmlfzslbJ-4UjgDcw0) - YouTube series from the Chief Unicorn, Niels Hartvig.
 * [Official YouTube Channel](https://www.youtube.com/c/umbracocommunity/) - the Umbraco community YouTube channel.
 
 ---
 
 ## Backoffice extensions
 
-* [Find and Replace](https://our.umbraco.org/projects/backoffice-extensions/find-and-replace/) - A simple and intuitive package which allows editors to find and replace content.
-* [Nexu](https://our.umbraco.org/projects/backoffice-extensions/nexu) - Keeps tracks of internal links by parsing property data. Will warn editors when something is "in use" when deleting or unpublishing. It's extensible so you can create parsers for your own property or grid editors.
 * [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - adds a heap of useful bits and pieces to Umbraco, to allow multi-staged workflow approval.
-* [Robots.txt editor](https://our.umbraco.org/projects/developer-tools/robotstxt-editor) - Edit robots.txt from within the back-office.
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - lets you handle all of the steps of the translation process from within Umbraco.
-* [UI-O-Matic](https://our.umbraco.org/projects/developer-tools/ui-o-matic/) - Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco.
-* [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/umbraco-page-not-found-manager/) - Manage your sites 404 page(s) from Umbraco.
+* [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/hot-chilli-page-not-found-manager) - Manage your sites 404 page(s) from Umbraco.
 * [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
-* [Key value list](https://our.umbraco.com/packages/backoffice-extensions/key-value-list/) - A dropdown property editor with displayvalues
+* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - Redirects manager for Umbraco.
+* [SimpleRedirects](https://our.umbraco.com/packages/backoffice-extensions/simpleredirects/) - Redirects manager for Umbraco.
+* [Newsletter Studio*](https://our.umbraco.com/packages/backoffice-extensions/newsletter-studio-the-email-studio/) - Responsive email editor to create emails for all clients.
+* [Backoffice Themes](https://our.umbraco.com/packages/backoffice-extensions/backoffice-themes/) - Allows choosing your own themes for in the backoffice.
+* [Preflight](https://our.umbraco.com/packages/backoffice-extensions/preflight-content-health-checks-for-umbraco-8/) - Framework for content quality assurance
+* [MemberListView](https://our.umbraco.com/packages/backoffice-extensions/memberlistview/) - Adds a dashboard for the members area for easier management.
 
 ### Form Builders
 
-* [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 * [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
-
-### Grid Editors
-
-* [Doc Type Grid Editor](https://our.umbraco.org/projects/backoffice-extensions/doc-type-grid-editor/) - Advanced grid editor for Umbraco.
 
 ### Property Editors
 
-* [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
-* [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
+* [Meganav](https://our.umbraco.com/packages/backoffice-extensions/umbnav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [Personalisation Groups](https://our.umbraco.com/packages/website-utilities/personalisation-groups/) - allow personalisation of content to different groups of site visitors
-* [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
-* [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
-* [Styled Editors](https://our.umbraco.com/packages/developer-tools/styled-editors-for-umbraco-8/) - A configural property editor to "replace" the generic textbox & textarea properties. It allows for inline CSS as well as adding classes and having placeholder text.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
-* [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
-
-### SEO Tools
-
-* [SEO Checker*](https://soetemansoftware.nl/seo-checker) - find common SEO issues in your Umbraco website.
+* [Open or closed](https://our.umbraco.com/packages/backoffice-extensions/open-or-closed/) - Property editor to allow setting up business hours.
 
 ## Developer tools
 
-* [301 URL Tracker](https://our.umbraco.org/projects/developer-tools/301-url-tracker) - Manage and redirect legacy URLs and 404s.
 * [CMSImport*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
-* [Optimus](https://our.umbraco.org/projects/developer-tools/optimus) - Bundling and minification of your CSS and Javascript.
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
-* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - Redirects manager for Umbraco.
-* [Our HealthChecks](https://our.umbraco.com/packages/backoffice-extensions/ourumbracohealthchecks/) - Adds addtional health checks to the back office.
+* [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - Exposes a lot of information for developers.
 * [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
 * [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
 
@@ -114,17 +95,15 @@ Please note * indicates that the package is commercial or may require a license 
 ## eCommerce &amp; CRM
 
 * [Vendr*](https://vendr.net/) - eCommerce built on top of Umbraco.
-* [uCommerce*](https://ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
 
 ## Starter Kits
 
-* [Articulate](https://our.umbraco.org/projects/starter-kits/articulate) - Blogging platform.
+* [Clean Starter Kit](https://our.umbraco.com/packages/starter-kits/clean-starter-kit/) - Clean and simple website to get started with
 
-## Website utilities
+## Website Utilities
 
-* [Slimsy](https://our.umbraco.org/projects/website-utilities/slimsy) - Responsive Images using Slimmage for Umbraco.
-* [UnVersion](https://our.umbraco.org/projects/website-utilities/unversion/) - Removes previous versions of content.
-* [Matryoshka](https://our.umbraco.com/packages/backoffice-extensions/matryoshka-tabs-for-umbraco-8/) - Adding back tabs in Umbraco
+* [InboundLinkErrors](https://our.umbraco.com/packages/website-utilities/inbound-link-errors/) - Tracks 404 responses so you can easily add new redirects.
+* [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - Fast and easy way to setup search for your website.
 
 ## Code Libraries
 
