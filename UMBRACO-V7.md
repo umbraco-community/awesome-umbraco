@@ -15,6 +15,7 @@ Thank you to all [contributors](https://github.com/umbraco-community/awesome-umb
 ### Versions
 This list is for Umbraco v7 packages. However, we also have lists for other versions! Check them out too.
 
+[![UmbracoV10](https://img.shields.io/badge/Umbraco-v10-blue)](README.md)
 [![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](UMBRACO-V9.md)
 [![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](UMBRACO-V8.md)
 
